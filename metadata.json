@@ -1,0 +1,5 @@
+{
+  "name": "Monitoreo Corazones Dorados",
+  "description": "Una aplicación para monitorear el bienestar y la actividad de los adultos mayores en una casa de reposo, mostrando datos de sensores en tiempo real de movimiento, pasos y estado de salud general.",
+  "requestFramePermissions": []
+}
