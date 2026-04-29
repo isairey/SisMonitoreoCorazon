@@ -37,14 +37,6 @@ La aplicación está diseñada para ser rápida, modular y fácil de configurar.
 
 ---
 
-## 🔗 Acceso al proyecto
-
-Puedes visualizar la aplicación directamente en AI Studio:
-
-👉 https://ai.studio/apps/drive/1OXwEFvM61jPyD5wp0R5ll_Y3sVWPR6rd
-
----
-
 ## ⚙️ Requisitos
 
 Antes de comenzar, asegúrate de tener instalado:
@@ -60,11 +52,11 @@ Antes de comenzar, asegúrate de tener instalado:
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/ai-studio-app.git
+git clone https://github.com/isairey/SisMonitoreoCorazon.git
 ```
 Acceder al proyecto:
 ```
-cd ai-studio-app
+cd SisMonitoreoCorazon
 ```
 Instalar dependencias:
 ```
